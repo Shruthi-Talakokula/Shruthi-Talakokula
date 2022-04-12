@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shruthi-Talakokula
 - 👀 I’m interested in Coding...
-- 🌱 I’m a Computer Engineer Student..
-- 📫 How to reach me ...India
+- 🌱 I’m a Computer Engineer Student...
+- 📫 How to reach me ...I'm an Indian
 
 <!---
 Shruthi-Talakokula/Shruthi-Talakokula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
